@@ -1,5 +1,5 @@
 function coins(sum) {
-    var coinsR-eturned = []
+    var coinsReturned = []
     var tender = [25, 10, 5, 1]
     tender.reduce(function(owed, denomination) {
         var times = 0;
